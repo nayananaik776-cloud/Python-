@@ -1,0 +1,4 @@
+age={'a':1,'b':2,'c':3}
+print(age)
+age['d']=5
+print(age)
