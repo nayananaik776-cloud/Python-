@@ -1,0 +1,4 @@
+age=[20,49,28,40,28]
+print(age)
+age.pop(2)
+print(age)
