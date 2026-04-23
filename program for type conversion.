@@ -1,0 +1,4 @@
+x=int(10.5)
+y=float(5)
+z=str(100)
+print(x,y,z)
