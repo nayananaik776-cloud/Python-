@@ -1,0 +1,5 @@
+age=[25,45,36,27]
+print(age)
+
+age.append(35)
+print(age)
