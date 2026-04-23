@@ -1,0 +1,4 @@
+is_user_loggedin=False
+if not is_user_loggedin:
+    print("Redirect to login")
+    print("Make Purchase")
